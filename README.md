@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @mohdrahman, I'm Full-Stack Developer.
 
-I've 11-years experience in programming and coding with multiple company as Remote-Developer and contribute myself solely as man behind the scene. I do love my job and helping others with project solely purposed challenges that only interested me.
+I've 11-years experience in programming and coding with multiple company as Remote-Developer and contribute myself as man behind the scene working closely and well-known around my tiny circle network. I do love my job and helping others with project solely purposed challenges that only interested me.
 
 - 👀 I’m interested in @creativecoding
 - 🌱 I’m currently learning @three.js
